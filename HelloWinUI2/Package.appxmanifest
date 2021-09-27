@@ -8,7 +8,7 @@
 
   <Identity
     Name="76a67527-4634-4b59-b802-635317abfaac"
-    Publisher="CN=TaylorShi"
+    Publisher="CN=HelloWinUI2"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="76a67527-4634-4b59-b802-635317abfaac" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
